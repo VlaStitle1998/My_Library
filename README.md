@@ -12,7 +12,7 @@
 
 </br> </br>
 
-:black_square_button: Из таблицы Students были удалены колонки STID, BirthDate. </br> Из таблицы Teachers были удалены колонки TID, Experience. </br> В таблице Teachers колонка Name была переименована в Professor. </br> Использованные SQL-команды: INSERT INTO VALUES, SELECT * FROM. 
+:black_square_button: В каждую из ранее созданных таблиц были внесены 10 строк данных. </br> В ТРЁХ ячейках таблицы Catalogue были специально допущены орфографические ошибки, чтобы в дальнейшем продемонстрировать навык их редактирования. </br> Использованные SQL-команды: INSERT INTO VALUES, SELECT * FROM. 
 
 :copyright: Скрипт использованных SQL-команд можно посмотреть в файле Внесение Данных.sql. 
 
