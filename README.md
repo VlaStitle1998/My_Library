@@ -20,7 +20,7 @@
 
 </br> </br>
 
-:black_square_button: Были объединены таблицы Students и Teachers при помощи INNER JOIN по совпадениям в колонке Subject. </br> Использованные SQL-команды: UPDATE, SET, REPLACE, WHERE, LIKE, ORDER BY, DESC, SELECT * FROM. 
+:black_square_button: При помощи команд UPDATE, SET, REPLACE, WHERE и LIKE было произведено редактирование ТРЁХ орфографических ошибок в ячейках таблицы Catalogue. </br> После этого была произведена сортировка таблицы по заголовкам от Я до А (по убыванию) при помощи команд ORDER BY, DESC. </br> Использованные SQL-команды: UPDATE, SET, REPLACE, WHERE, LIKE, ORDER BY, DESC, SELECT * FROM. 
 
 :copyright: Скрипт использованных SQL-команд можно посмотреть в файле Редактирование Данных.sql. 
 
